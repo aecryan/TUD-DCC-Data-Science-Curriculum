@@ -76,3 +76,4 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [Reproducible Research material from Code Refinery](https://coderefinery.github.io/reproducible-research/) - demonstrates how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps
 * [Reproducible Research video lesson from Code Refinery](https://www.youtube.com/watch?v=MxZF1gEJoWw) - Recorded video lesson from Code Refinery workshop in May 2021 on Reproducible Research material
 * [Data + Code + Software = PDF](https://zenodo.org/record/5508797#.YUHu0bj7RjU) - Slides to an overview on how to integrate data and software into a PDF.
+* [Data Science is OSEMN!](https://medium.com/@randylaosat/life-of-data-data-science-is-osemn-f453e1febc10) - covers briefly a high-level overview of what to expect in a typical data science pipeline using a variety of tools and technology
