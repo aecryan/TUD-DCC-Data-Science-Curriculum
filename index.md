@@ -46,6 +46,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [Plotting and Programming with Python from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) - an introduction to programming in Python for people with little or no previous programming experience using plotting as its motivating example
 * [Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/) - basic information about Python syntax, the Jupyter notebook interface, how to import CSV files, using the pandas package to work with data frames, how to calculate summary information from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from Python
 * [Can You Speak Python?](https://github.com/wmvanvliet/gizmo) - test your knowledge of some important features of the Python programming language and the NumPy and Pandas libraries
+* [SciPy lecture notes](https://scipy-lectures.org/index.html#) - "one document to learn numerics, science, and data with Python."
 
 ## Pandas
 * [Getting started with Pandas](https://pandas.pydata.org/getting_started.html) - documentation and quick start guide for Pandas, an essential Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data
@@ -70,6 +71,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [Programming with R from Software Carpentries](http://swcarpentry.github.io/r-novice-inflammation/) - this introduction to R is built around a common scientific task: data analysis
 * [R for Reproducible Data Analysis from Software Carpentries](http://swcarpentry.github.io/r-novice-gapminder/) - write modular code and best practices for using R for data analysis
 * [R for Social Scientists](https://datacarpentry.org/r-socialsci/) - basic information about R syntax, the RStudio interface, how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting
+* [Introduction to R Markdown & Knitr - Connect Data, Methods and Results](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/about-open-science-and-why-open-science-is-important/) - In this tutorial you will use the knitr and R Markdown packages in RStudio to create a report that links your analysis, results and associated data. Part of a full curriculum on analysing and reporting on data using R (written for earth sciences, useful more generally)
 
 ## Reproducible Research
 * [Code Based Research Project Example](https://gitlab.tudelft.nl/boess-tudelft/code-based-research-project-example) – template repository for setting up a file structure and documentation for a research project with data and code
