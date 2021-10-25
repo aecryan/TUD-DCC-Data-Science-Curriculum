@@ -63,7 +63,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 ## Ipywidgets
 * [Ipywidgets documentation](https://ipywidgets.readthedocs.io/en/latest/) - ipywidgets, also known as jupyter-widgets or simply widgets, are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
 * [Introduction to ipywidgets](https://www.youtube.com/watch?v=wb6k_T4rKBQ) - in this tutorial video, learn about ipywidgets, a Python library for building interactive HTML widgets for your Jupyter browser.
-* [Ipywidgets Interact Function | ipywidgets Examples of Slider, Dropdown, Checkbox, Text Box](https://www.youtube.com/watch?v=vtC5laIgMJc) - Video demo on how to make an ipywidgets slider, ipywidgets dropdown, ipywidgets checkbox, or an ipywidgets text box using Python code.
+* [Ipywidgets Interact Function - Examples of Slider, Dropdown, Checkbox, Text Box](https://www.youtube.com/watch?v=vtC5laIgMJc) - Video demo on how to make an ipywidgets slider, ipywidgets dropdown, ipywidgets checkbox, or an ipywidgets text box using Python code.
 
 ## R
 * [Install R guide from Software Carpentries](https://carpentries.github.io/workshop-template/#r) - R is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. To interact with R, we use RStudio, which must also be installed separately from [here](https://www.rstudio.com/)
