@@ -75,7 +75,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 
 ## Reproducible Research
 * [Reproducible Research in R Workshop - Data Carpentry](https://datacarpentry.org/rr-workshop/)
-* [Code Based Research Project Example](https://gitlab.tudelft.nl/boess-tudelft/code-based-research-project-example) – template repository for setting up a file structure and documentation for a research project with data and code
+* [Code Based Research Project Example](https://github.com/aecryan/code_project_template) – template repository for setting up a file structure and documentation for a research project with data and code
 * [Reproducible Research material from Code Refinery](https://coderefinery.github.io/reproducible-research/) - demonstrates how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps
 * [Reproducible Research video lesson from Code Refinery](https://www.youtube.com/watch?v=MxZF1gEJoWw) - Recorded video lesson from Code Refinery workshop in May 2021 on Reproducible Research material
 * [Data + Code + Software = PDF](https://zenodo.org/record/5508797#.YUHu0bj7RjU) - Slides to an overview on how to integrate data and software into a PDF.
