@@ -74,6 +74,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [Introduction to R Markdown & Knitr - Connect Data, Methods and Results](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/about-open-science-and-why-open-science-is-important/) - In this tutorial you will use the knitr and R Markdown packages in RStudio to create a report that links your analysis, results and associated data. Part of a full curriculum on analysing and reporting on data using R (written for earth sciences, useful more generally)
 
 ## Reproducible Research
+* [Reproducible Research in R Workshop - Data Carpentry](https://datacarpentry.org/rr-workshop/)
 * [Code Based Research Project Example](https://gitlab.tudelft.nl/boess-tudelft/code-based-research-project-example) – template repository for setting up a file structure and documentation for a research project with data and code
 * [Reproducible Research material from Code Refinery](https://coderefinery.github.io/reproducible-research/) - demonstrates how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps
 * [Reproducible Research video lesson from Code Refinery](https://www.youtube.com/watch?v=MxZF1gEJoWw) - Recorded video lesson from Code Refinery workshop in May 2021 on Reproducible Research material
