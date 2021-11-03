@@ -47,6 +47,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/) - basic information about Python syntax, the Jupyter notebook interface, how to import CSV files, using the pandas package to work with data frames, how to calculate summary information from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from Python
 * [Can You Speak Python?](https://github.com/wmvanvliet/gizmo) - test your knowledge of some important features of the Python programming language and the NumPy and Pandas libraries
 * [SciPy lecture notes](https://scipy-lectures.org/index.html#) - "one document to learn numerics, science, and data with Python."
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - free e-book, excersises available in Jupyter notebooks.
 
 ## Pandas
 * [Getting started with Pandas](https://pandas.pydata.org/getting_started.html) - documentation and quick start guide for Pandas, an essential Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data
