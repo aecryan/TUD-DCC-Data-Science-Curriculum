@@ -73,6 +73,7 @@ Materials were compiled by Ashley Cryan and Maurits Kok of the [TU Delft Digital
 * [R for Reproducible Data Analysis from Software Carpentries](http://swcarpentry.github.io/r-novice-gapminder/) - write modular code and best practices for using R for data analysis
 * [R for Social Scientists](https://datacarpentry.org/r-socialsci/) - basic information about R syntax, the RStudio interface, how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting
 * [Introduction to R Markdown & Knitr - Connect Data, Methods and Results](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/about-open-science-and-why-open-science-is-important/) - In this tutorial you will use the knitr and R Markdown packages in RStudio to create a report that links your analysis, results and associated data. Part of a full curriculum on analysing and reporting on data using R (written for earth sciences, useful more generally)
+* [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R.
 
 ## Reproducible Research
 * [Reproducible Research in R Workshop - Data Carpentry](https://datacarpentry.org/rr-workshop/)
